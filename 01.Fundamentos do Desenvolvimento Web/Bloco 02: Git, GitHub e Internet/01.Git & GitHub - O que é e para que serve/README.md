@@ -1,6 +1,6 @@
 # DIA 1
 
-O objetivo dos exercícios desse dia foi instalar o git, configurar, criar conta no git hub, obter a chave SSH e habilitar a autentificação de dois fatores.
+O objetivo dos exercícios desse dia foi instalar o Git, configurar, criar conta no GitHub, obter a chave SSH e habilitar a autenticação de dois fatores.
 
 Os requisitos do exercício são:
 
