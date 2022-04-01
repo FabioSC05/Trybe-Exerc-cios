@@ -35,8 +35,24 @@ Criar um arquivo html chamado index.html.
 4. Criar uma classe para modificar a cor de fundo da tag p e da ul ao mesmo tempo.
 Não esquecer de dar um PUSH no repositório para sincronizá-lo com o GitHub.
 
+Propriedades de texto no CSS
 
+1. Modificar a família do h1 para sans-serif.
 
+2. Deixar o parágrafo com font-weight 600.
 
+3. Modificar o font-size do body para 16px.
+
+4. Colocar o tamanho do parágrafo com o tamanho de 3 vezes o padrão do body.
+
+5. Explorar as propriedades font-style, line-height, text-align e text-decoration.
+
+6. Trocar a cor de fundo de cada item da lista para a cor correspondente ao texto.
+Não esquecer de dar um PUSH no repositório para sincronizá-lo com o GitHub.
+
+CSS inline e externo
+
+1. Colocar todo o CSS criado até agora nos exercícios anteriores em um arquivo externo.
+Não esquecer de dar um PUSH no repositório para sincronizá-lo com o GitHub.
 
 Estilizar o Portfólio no GitHub Pages.
