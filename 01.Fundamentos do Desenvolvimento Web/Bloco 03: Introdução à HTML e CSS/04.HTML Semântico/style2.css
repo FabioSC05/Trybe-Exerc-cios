@@ -1,0 +1,37 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+.inline-nav li {
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+}
+
+.info li {
+    list-style: none;
+    position: relative;
+    right: 40px;
+}
+
+.order {
+    position: relative;
+    left: 53px;
+}
+
+.punch {
+    position: relative;
+    right: 26px;
+}
+
+.video {
+    font-size: 30px;
+}
+
+h5 {
+    text-align: center;
+}
