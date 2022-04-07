@@ -27,9 +27,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3-4: _HTML Semântico_
 - [X] 3-5: _[Projeto - Lessons Learned](https://github.com/tryber/sd-022-a-project-lessons-learned/pull/133)_
 
-##### Bloco 4: Introdução - JavaScript
+##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
-- [ ] 4-1: _JavaScript - Primeiros passos_
+- [X] 4-1: _JavaScript - Primeiros passos_
 - [ ] 4-2: _JavaScript - Array e loop For_
 - [ ] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [ ] 4-4: _JavaScript - Objetos e funções_
