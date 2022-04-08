@@ -1,6 +1,6 @@
 # DIA 1
 
-O objetivo dos exercícios desse dia foi customizar uma página com CSS e estilizar o portfólio no GitHub Pages.
+O objetivo dos exercícios desse dia foi utilizar o aprendizado inicial de JavaScript sobre operadores aritméticos, operadores lógicos, variáveis e constantes, tipos primitivos entre outros.
 
 Os requisitos do exercício são:
 
