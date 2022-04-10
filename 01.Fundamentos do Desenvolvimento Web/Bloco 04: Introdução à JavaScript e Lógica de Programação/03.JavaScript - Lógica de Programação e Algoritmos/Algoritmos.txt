@@ -57,7 +57,7 @@ Depois é executado um 'console.log' com o valor da nova variável para imprimir
 Depois foi criada uma estrutura de repetição 'for' e dentro dela se criaria uma variável do tipo boolean com o valor true e outra estrutura de repetição 'for' que passa verificando todas as posições do array e passando por uma estrutura condicional, sendo que se a variável com a posição .length for menor do que a outra posição da variável .length o valor da variável dentro do primeiro for muda para false, e ao final de tudo se a variável boolean for verdadeira imprime-se o valor do index atual na posição do array.
 A mesma coisa é feito com o menor valor, só muda na estrutura condicional que ao invés de ser menor a comparação, vai ser maior.
 
-Primeiro é criado uma varíavel do tipo array vazia para conter os números primos.
+Primeiro é criado uma varíavel do tipo array vazia para conter todos os números primos.
 Depois é criado uma estrutura de repetição do tipo 'for' onde vai passar dividindo o número atual por um outro número dentro de outra estrutura de repetição, porém antes de passar pela segunda estrutura de repetição, é criado uma variável boolean com o valor 'true.
 Então a cada divisão da segunda repetição é gerada uma condição de que se a primeira variável do 'for' puder ser divididida pela segunda variável do 'for' e o resultado da divisão for = 0 a variável lá boolean muda seu valor para 'false'.
 Depois volta pra primeira estrutura de repetição, e entra em outra estrutura condicional que diz que se o valor da variável boolean for 'true' é gerado um push no array dos números primos com o valor da variável da primeira estrutura de repetição atual.
