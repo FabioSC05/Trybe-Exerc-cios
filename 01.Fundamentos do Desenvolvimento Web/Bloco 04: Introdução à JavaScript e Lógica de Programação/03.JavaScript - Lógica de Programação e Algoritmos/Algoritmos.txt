@@ -1,0 +1,64 @@
+Algoritmo Exercícios 4.2
+
+Arrays (listas)
+
+Foi criado uma variável do tipo array 'menu' para conter os valores.
+Foi criado uma variável 'menuServices' contendo a primeira posição do array 'menu'.
+Depois foi utilizado um 'console.log' para imprimir o valor de 'menuServices'.
+Foi criado uma variável 'indexOfPortfolio' para exibir a posição do valor 'Portfólio' no array 'menu'.
+Depois foi utilizado um 'console.log' para imprimir a valor de 'indexOfPortfolio'.
+Foi utilizado o comando 'menu.push' para adicionar o valor 'Contato' ao array 'menu'.
+E por último um 'console.log' para exibir os valores da array 'menu'.
+
+For
+
+Foi criado uma variável do tipo array chamada 'groceryList' para conter os valores.
+Depois criado uma estrutura de repetição 'for' para se exibir item por item do array 'groceryList' e por último um 'console.log' para exibir cada item.
+
+For/of
+
+Foi criado uma variável do tipo array chamada 'names' para conter os valores.
+Depois criado uma estrutura for/of para mostrar cada nome dentro do array 'names' e por último um 'console.log'  para exibir cada nome a cada repetição.
+
+Exercícios
+
+Foi criado uma váriavel do tipo array chamada 'numbers' para conter os valores.
+Foi criado uma estrutura de repetição 'for' para imprimir cada número do array 'numbers' em um 'console.log'.
+Foi criado uma váriavel chamada 'soma' com o valor 0.
+Foi criada uma estrutura de repetição 'for' para somar todos os valores da variável 'numbers' na variável 'soma'.
+Foi utilizado um 'console.log' para imprimir o valor da variável 'soma'.
+Foi utilizado um 'console.log' para imprimir o resultado da divisão do valor da variável 'soma' pelo tamanho quantidade de valores da variável 'numbers'.
+Depois foi criado uma estrutura condicional 'if/else 'para que se o valor dessa divisão fosse maior do que 20, imprimir o texto "valor maior que 20", se não imprimir o texto "valor menor ou igual a 20".
+Foi usado uma estrutura de repetição 'for' para imprimir no 'console.log' o maior número da variável 'numbers' através do 'console.log'.
+Foi usado uma estrutura de repetição 'for' para descobrir quantos números impares tem na varíavel 'numbers' e depois uma estrutura condicional 'if/else' para imprimir quantos valores impares tem na variável 0 através de um 'console.log' se não tivesse nenhum iria imprimir a mensagem "nenhum valor impar encontrado".
+Foi usado uma estrutura de repetição 'for' para imprimir no 'console.log' o menor número da variável 'numbers' através do 'console.log'.
+Foi usado uma estrutura de repetição 'for' para imprimir números de 1 a 25 através do 'console.log'.
+Foi usado uma estrutura de repetição 'for' para imprimir a divisão de cada um desses 25 números por 2 através do 'console.log'.
+
+Bônus
+
+Foi criado uma variável array chamada 'numbers' para conter os valores.
+Foi criado uma estrutura de repetição 'for' contendo outra estrutura de repetição para ir passando pelos números do array e comparando qual era menor e colocar em ordem crescente e depois imprimir o array 'numbers' com 'console.log'.
+Foi criado uma estrutura de repetição 'for' contendo outra estrutura de repetição para ir passando pelos números do array e comparando qual era maior e colocar em ordem decrescente e depois imprimir o array 'numbers' com 'console.log'.
+Foi criado uma estrutura de repetição 'for' para multiplicar um número pelo seu próximo na lista e o último por 2 e adicionar a um novo array e imprimir o resultado desse novo array através do 'console.log'.
+
+Exercícios Bloco 4.3:
+
+Primeiro devemos criar uma variável com o valor 0.
+Depois uma estrutura de repetição 'for' e dentro dele uma estrutura condicional onde se o index for = a 9 o valor da variável criada acima irá multiplicar (index + 1) vezes o index, se não for, o valor da variável criada antes será ele mesmo vezes o index e ir reduzindo até multiplicar por 1, e então imprimir no 'console.log'.
+
+Primeiro devemos criar uma variável com o nome 'word' e valor com a palavra que queremos inverter.
+Depois criamos uma outra variável sem definir um valor.
+Depois é criado uma estrutura de repetição 'for' com o index sendo o .length - 1 da variável word, sendo executada até o index ser >= a 0 e a cada repetição diminuir o index em -1.
+Dentro do 'for' é criado uma estrutura condicional onde se o index = ao word.length - 1, a variável criada depois recebe o valor word[index], se não for essa mesma variável recebe o valor dela mesma + word[index].
+Depois é executado um 'console.log' com o valor da nova variável para imprimir o resultado.
+
+É criado um array com vários valores.
+Depois foi criada uma estrutura de repetição 'for' e dentro dela se criaria uma variável do tipo boolean com o valor true e outra estrutura de repetição 'for' que passa verificando todas as posições do array e passando por uma estrutura condicional, sendo que se a variável com a posição .length for menor do que a outra posição da variável .length o valor da variável dentro do primeiro for muda para false, e ao final de tudo se a variável boolean for verdadeira imprime-se o valor do index atual na posição do array.
+A mesma coisa é feito com o menor valor, só muda na estrutura condicional que ao invés de ser menor a comparação, vai ser maior.
+
+Primeiro é criado uma varíavel do tipo array vazia para conter os números primos.
+Depois é criado uma estrutura de repetição do tipo 'for' onde vai passar dividindo o número atual por um outro número dentro de outra estrutura de repetição, porém antes de passar pela segunda estrutura de repetição, é criado uma variável boolean com o valor 'true.
+Então a cada divisão da segunda repetição é gerada uma condição de que se a primeira variável do 'for' puder ser divididida pela segunda variável do 'for' e o resultado da divisão for = 0 a variável lá boolean muda seu valor para 'false'.
+Depois volta pra primeira estrutura de repetição, e entra em outra estrutura condicional que diz que se o valor da variável boolean for 'true' é gerado um push no array dos números primos com o valor da variável da primeira estrutura de repetição atual.
+E por último um 'console.log' com a array de números primos mostrando a última posição desse array, com nomeVariavelPrimos.length - 1.
