@@ -1,0 +1,22 @@
+Levar a toalha pro banheiro.
+Ir para o banheiro.
+Abrir a porta do banheiro.
+Entrar no boxe do chuveiro.
+Abrir a válvula do chuveiro.
+Tomar banho.
+Passar sabão.
+Passar Shampoo.
+Fechar a válvula do chuveiro.
+Pegar a toalha.
+Se secar.
+Se enrolar na toalha.
+Ir para o quarto.
+Abrir o guarda-roupas.
+Escolher uma camisa.
+Escolher uma calça.
+Escolher uma roupa de baixo.
+Pegar uma meia.
+Vestir as roupas.
+Passar um perfume.
+Calçar a meia.
+Calçar o tênis.
