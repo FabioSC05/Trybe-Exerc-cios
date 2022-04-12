@@ -34,13 +34,13 @@ if (a > b && a > c) {
 
 if (a === 0) {
   console.log("Zero");
-} else if (a % 2 === 0) {
+} else if (a > 0) {
   console.log("Positive");
-} else if (a % 2 !== 0) {
+} else if (a < 0) {
   console.log("Negative");
 }
 
-if (a % 2 !== 0 || b % 2 !== 0 || c % 2 !== 0) {
+if (a < 0 || b < 0 || c < 0) {
   console.log("erro");
 } else if (a + b + c === 180) {
   console.log(true);
