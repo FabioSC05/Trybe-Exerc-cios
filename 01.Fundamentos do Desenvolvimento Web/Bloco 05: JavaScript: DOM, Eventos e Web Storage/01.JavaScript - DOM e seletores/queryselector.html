@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <header>
+      <h2 id="page-title">Título</h2>
+      <p id="paragraph" class="pClasses">Dê uma cor para este parágrafo!</p>
+      <h4 id="subtitle">Subtítulo</h4>
+      <p id="second-paragraph" class="pClasses">Segundo parágrafo!</p>
+    </header>
+    <script>
+      const paragraph = document.getElementById("paragraph");
+      const title = document.querySelector("h2").innerText = "Harry Potter";
+      const secondParagraph = document.querySelectorAll("p")[1].innerText = "Conta a história menino bruxo que sobreviveu contra o maior bruxo das trevas de todos os tempos."
+      const subtitle = document.querySelector("h4").innerText = "E a Pedra Filosofal"
+      const paragraphClass1 = document.querySelectorAll(".pClasses");
+      const paragraph1 = document.querySelector("p").style.color = "purple";
+      const subtitle1 = document.querySelector("h4").style.color = "green";
+      paragraph.style.color = "red";
+      paragraphClass1.style.color = "green";
+    </script>
+  </body>
+</html>

@@ -4,6 +4,6 @@ O objetivo do dia foi criar e entregar um projeto baseado no conteúdo aprendido
 
 Tema:
 
-Lessons Learned
+Playground Functions
 
-https://github.com/tryber/sd-022-a-project-lessons-learned/pull/133
+https://github.com/tryber/sd-022-a-project-playground-functions/pull/151
