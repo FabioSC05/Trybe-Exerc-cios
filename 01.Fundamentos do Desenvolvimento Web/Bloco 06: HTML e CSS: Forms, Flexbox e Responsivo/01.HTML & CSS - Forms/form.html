@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <title>Viagem Trybe</title>
+</head>
+<body>
+  <form action="" method="get">
+  <header>Viaje com a Trybe</header>
+  <fieldset>
+    <label for="name">Nome: </label>
+    <input type="text" name="name" id="name" minlength="10" maxlength="40">
+    <br>
+    <br>
+    <label for="email">Email: </label>
+    <input type="email" name="email" id="email" minlength="10" maxlength="50"></label>
+    <p>Selecione seu Destino</p>
+    <br>
+    <div>
+      <label for="destiny1">
+      <input type="radio" name="destiny" id="destiny1" value="city"> Cidade</label>
+      <label for="destiny2">
+      <input type="radio" name="destiny" id="destiny2" value="field"> Campo</label>
+      <label for="destiny3">
+      <input type="radio" name="destiny" id="destiny3" value="beach"> Praia</label>
+      <label for="destiny4">
+      <input type="radio" name="destiny" id="destiny4" value="mountains"> Montanhas</label>
+    </div>
+    <p>Por que você deve ser o ganhador do concurso?</p>
+    <textarea name="textarea" id="textarea" cols="50" rows="10" maxlength="500"></textarea>
+    <p>Qual a melhor data para viajar?</p>
+    <label for="date">Data:</label>
+    <input type="date" name="date" id="date">
+    <br>
+    <label for="offer">
+    <input type="checkbox" name="offer" id="offer" value="offer">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?</label>
+    <br>
+    <label for="agree">
+    <input type="checkbox" name="agree" id="agree" value="agree" required>Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.</label>
+    <br>
+    <br>
+  </fieldset>
+  <button type="submit" id="send">Enviar</button>
+  <button type="reset" id="erase">Apagar</button>
+  </form>
+  <script src="script.js"></script>
+</body>
+</html>
