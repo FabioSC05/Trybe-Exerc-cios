@@ -1,6 +1,6 @@
 # DIA 3
 
-O objetivo dos exercícios desse dia foi criar um formulário, usando inputs e atributos.
+O objetivo dos exercícios desse dia foi trabalhar com flexbox e seus atributos, flex-direction, flex-wrap, flex-flow, justify-content, align-items, align-content.
 
 Os requisitos do exercício são:
 
@@ -23,3 +23,9 @@ flex2.html
 2. Teste as possibilidades ( center , flex-start , flex-end , stretch e baseline ) para a propriedade align-items . Não se esqueça de copiar o código! 😉
 
 3. Teste as possibilidades ( center , flex-start , flex-end , stretch , space-around e space-between ) para a propriedade align-content.
+
+Trybe Tech-Gallery
+
+Desenvolver uma página baseada em um exercício do git hub.
+
+https://github.com/tryber/exercise-tech-gallery
