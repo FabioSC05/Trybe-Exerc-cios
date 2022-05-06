@@ -1,6 +1,6 @@
 # DIA 5
 
-O objetivo dos exercícios desse dia foi continuar trabalhando com flexbox e seus atributos nos itens, align-self, order, flex-grown, flex-shrink, flex-basis.
+O objetivo dos exercícios desse dia foi criar sites de forma responsiva que funcionem bem tanto em smartphones como em desktops.
 
 Os requisitos do exercício são:
 
@@ -59,3 +59,20 @@ exercise2.html e exercise2.css
   * Como a história deve ser mostrada?
   * Como o cabeçalho deve ser posicionado?
   * O que fazer com as informações do autor em cada tamanho de tela?
+
+3. Talvez você precise alterar o HTML um pouco, adicionando elementos para facilitar a estilização, ou talvez mudando um bloco de lugar dentro da página.
+
+Parte III - Criando layouts para dispositivos móveis e para impressão
+
+exercise3.html e exercise3.css
+
+1. Adicione uma media query no arquivo CSS e as regras necessárias para que a página se pareça com a imagem abaixo quando ela for impressa. Especificamente:
+  * Os elementos com id header, navigation e footer devem desaparecer;
+  * O elemento com id aside deve ser mostrado abaixo do conteúdo principal.
+
+2. Adicione uma media query no arquivo CSS e as regras necessárias para que a página se pareça com as imagens abaixo quando a tela for redimensionada para larguras menores. Especificamente:
+  * O elemento com id aside deve desaparecer;
+  * O elemento body não deve ter padding;
+  * As imagens não devem exceder a largura da tela;
+  * Os itens dentro do elemento navigation devem aparecer cada um em sua própria linha;
+  * O elemento com id header deve ser fixo, de forma que ele fique aparecendo sempre no topo da tela mesmo após o usuário rolar a página.
