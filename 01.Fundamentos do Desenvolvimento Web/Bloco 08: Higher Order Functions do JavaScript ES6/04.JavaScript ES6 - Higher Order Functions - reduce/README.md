@@ -6,9 +6,11 @@ Os requisitos do exercício são:
 
 Exercícios
 
-exercicios.js
+exercise1.js
 
 1. Dada uma matriz, transforme em um array.
+
+exercises234.js
 
 2. Crie uma string com os nomes de todas as pessoas autoras.
 
@@ -16,6 +18,10 @@ exercicios.js
 
 4. Encontre o livro com o maior nome.
 
+exercise5.js
+
 5. Dada o array de nomes, retorne a quantidade de vezes em que aparecem a letra a maiúscula ou minúscula.
+
+exercise6.js
 
 6. Agora vamos criar um novo array de objetos a partir das informações abaixo, onde cada objeto terá o formato { name: nome do aluno, average: media das notas }. Para isso vamos assumir que a posição 0 de notas refere-se ao aluno na posição 0 de alunos, aqui além de reduce será necessário utilizar também a função map. Dica: Você pode acessar o index do array dentro de map, e você pode ver o objeto esperado na constante expected.
