@@ -72,9 +72,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 8-5: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
 - [X] 8-6: _[Projeto - Zoo functions](https://github.com/tryber/sd-022-a-project-zoo-functions/pull/119)_
 
-##### Bloco 9: Assincronicidade & Callbacks
+## Desenvolvimento Front-End :hourglass_flowing_sand:
 
-- [ ] 9-1: _JavaScript Assí­ncrono e Callbacks_
+##### Bloco 9: JavaScript e Testes Assíncronos
+
+- [X] 9-1: _JavaScript Assíncrono e Callbacks_
 - [ ] 9-2: _JavaScript Promises_
 - [ ] 9-3: _[Projeto - Carrinho de Compras]()_
 
@@ -84,8 +86,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 10-2: _Jest - Testes Assí­ncronos_
 - [ ] 10-3: _Jest - Simulando comportamentos_
 - [ ] 10-4: _[Projeto - Jest Assí­ncrono e Mocking]()_
-
-## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 11: Introdução - React
 
