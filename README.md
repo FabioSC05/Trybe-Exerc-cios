@@ -45,7 +45,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5-6: _[(Bônus) Projeto - Lista de tarefas](https://github.com/tryber/sd-022-a-project-todo-list/pull/78)_
 - [X] 5-7: _[(Bônus) Projeto - Meme Generator](https://github.com/tryber/sd-022-a-project-meme-generator/pull/49)_
 - [X] 5-7: _[(Bônus) Projeto - Adivinhe a Cor](https://github.com/tryber/sd-022-a-project-color-guess/pull/69)_
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+- [X] 5-7: _[(Bônus) Projeto - Carta Misteriosa](https://github.com/tryber/sd-022-a-project-mistery-letter/pull/44)_
 
 ##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 
