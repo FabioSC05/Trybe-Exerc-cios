@@ -84,7 +84,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 10: Introdução à React
 
 - [X] 10-1: _'Hello, world!' no React!_
-- [ ] 10-2: _Jest - Testes Assí­ncronos_
+- [X] 10-2: _Componentes React_
 - [ ] 10-3: _Jest - Simulando comportamentos_
 - [ ] 10-4: _[Projeto - Jest Assí­ncrono e Mocking]()_
 
