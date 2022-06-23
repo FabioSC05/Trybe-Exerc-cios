@@ -85,8 +85,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 10-1: _'Hello, world!' no React!_
 - [X] 10-2: _Componentes React_
-- [ ] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _[Projeto - Jest Assí­ncrono e Mocking]()_
+- [X] 10-3: _[Projeto - Sistema Solar](https://github.com/tryber/sd-022-a-project-solar-system/pull/164)_
 
 ##### Bloco 11: Introdução - React
 
