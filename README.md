@@ -104,9 +104,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 13-1: _Metodologias Ágeis_
 - [X] 13-2: _[Projeto - Frontend Online Store](https://github.com/tryber/sd-022-a-project-frontend-online-store/pull/2)_
 
-##### Bloco 14: Metodologias Ágeis
+##### Bloco 14: Testes automatizados com React Testing Library
 
-- [ ] 14-1: _Metodologias Ágeis_
+- [X] 14-1: _RTL - Primeiros passos_
 - [ ] 14-2: _[Projeto - Frontend Online Store]()_
 
 ##### Bloco 15: Testes em React
