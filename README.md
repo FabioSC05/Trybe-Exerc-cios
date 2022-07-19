@@ -108,7 +108,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 14-1: _RTL - Primeiros passos_
 - [X] 14-2: _RTL - Mocks e Inputs_
-- [ ] 14-3: _[Projeto - Frontend Online Store]()_
+- [X] 14-3: _RTL - Testando React Router_
+- [ ] 14-4: _[Projeto - Frontend Online Store]()_
 
 ##### Bloco 15: Testes em React
 
