@@ -1,6 +1,6 @@
 # DIA 3
 
-O objetivo dos exercícios desse foi criar um portfólio genérico baseado nos conhecimentos de React Testing Library utilizando os testes em rotas.
+O objetivo dos exercícios desse dia foi criar um portfólio genérico baseado nos conhecimentos de React Testing Library utilizando os testes em rotas.
 
 Os requisitos do exercício são:
 
