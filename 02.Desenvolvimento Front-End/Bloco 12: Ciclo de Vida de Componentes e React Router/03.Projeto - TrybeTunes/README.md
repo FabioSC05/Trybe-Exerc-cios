@@ -4,6 +4,6 @@ O objetivo do dia foi criar e entregar um projeto baseado no conteúdo aprendido
 
 Tema:
 
-Tryunfo FALTA EDITAR
+TrybeTunes
 
-https://github.com/tryber/sd-022-a-project-tryunfo/pull/163
+https://github.com/tryber/sd-022-a-project-trybetunes/pull/173
