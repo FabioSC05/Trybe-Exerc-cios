@@ -109,7 +109,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 14-1: _RTL - Primeiros passos_
 - [X] 14-2: _RTL - Mocks e Inputs_
 - [X] 14-3: _RTL - Testando React Router_
-- [ ] 14-4: _[Projeto - Frontend Online Store]()_
+- [X] 14-4: _[Projeto - Testes em React](https://github.com/tryber/sd-022-a-project-react-testing-library/pull/171)_
 
 ##### Bloco 15: Gerenciamento de estado com Redux
 
