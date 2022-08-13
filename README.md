@@ -115,7 +115,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 15-1: _Introdução ao Redux - O estado global da aplicação_
 - [X] 15-2: _Usando o Redux no React_
-- [ ] 15-3: _[Projeto - Testes em React]()_
+- [X] 15-3: _Usando o Redux no React - Prática_
+- [ ] 15-4: _[Projeto - Testes em React]()_
 
 ##### Bloco 16: Introdução ao Redux
 
