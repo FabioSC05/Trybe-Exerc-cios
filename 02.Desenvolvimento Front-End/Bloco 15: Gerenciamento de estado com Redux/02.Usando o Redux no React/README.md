@@ -15,5 +15,3 @@ Exercícios
 https://github.com/FabioSC05/exercise-react-with-redux-intro
 
 Pasta exercise-react-with-redux-intro
-
-OBS: Estão faltando alguns arquivos na pasta.
