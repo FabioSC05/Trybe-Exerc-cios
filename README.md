@@ -44,7 +44,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5-5: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-023-a-project-pixels-art/pull/186)_
 - [X] 5-6: _[(Bônus) Projeto - Lista de tarefas](https://github.com/tryber/sd-023-a-project-todo-list/pull/72)_
 - [X] 5-7: _[(Bônus) Projeto - Meme Generator](https://github.com/tryber/sd-023-a-project-meme-generator/pull/57)_
-- [X] 5-7: _[(Bônus) Projeto - Adivinhe a Cor](https://github.com/tryber/sd-022-a-project-color-guess/pull/69)_
+- [X] 5-7: _[(Bônus) Projeto - Adivinhe a Cor](https://github.com/tryber/sd-023-a-project-color-guess/pull/55)_
 - [X] 5-7: _[(Bônus) Projeto - Carta Misteriosa](https://github.com/tryber/sd-022-a-project-mistery-letter/pull/44)_
 
 ##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo

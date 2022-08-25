@@ -6,4 +6,4 @@ Tema:
 
 Adivinhe a Cor
 
-https://github.com/tryber/sd-022-a-project-color-guess/pull/69
+https://github.com/tryber/sd-023-a-project-color-guess/pull/55
