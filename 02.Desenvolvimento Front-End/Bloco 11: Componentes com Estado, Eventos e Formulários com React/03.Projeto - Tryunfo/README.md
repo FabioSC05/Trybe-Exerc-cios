@@ -6,4 +6,4 @@ Tema:
 
 Tryunfo
 
-https://github.com/tryber/sd-022-a-project-tryunfo/pull/163
+https://github.com/tryber/sd-023-a-project-tryunfo/pull/194
