@@ -6,4 +6,4 @@ Tema:
 
 Carrinho de Compras
 
-https://github.com/tryber/sd-022-a-project-shopping-cart/pull/148
+https://github.com/tryber/sd-023-a-project-shopping-cart/pull/194
