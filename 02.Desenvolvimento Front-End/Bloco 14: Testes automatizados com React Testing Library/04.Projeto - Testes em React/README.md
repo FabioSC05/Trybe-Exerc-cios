@@ -6,4 +6,4 @@ Tema:
 
 Testes em React
 
-https://github.com/tryber/sd-022-a-project-react-testing-library/pull/171
+https://github.com/tryber/sd-023-a-project-react-testing-library/pull/149
