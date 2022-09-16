@@ -124,9 +124,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 16-1: _[Projeto - Jogo de Trivia](https://github.com/tryber/sd-023-a-project-trivia-react-redux/pull/561)_
 
-##### Bloco 17: Projeto React
+##### Bloco 17: Context API e React Hooks
 
-- [ ] 17-1: _[Projeto - Jogo de Trivia]()_
+- [X] 17-1: _Context API do React_
+- [ ] 17-2: _[Projeto - Jogo de Trivia]()_
 
 ##### Bloco 18: React & Context API
 
