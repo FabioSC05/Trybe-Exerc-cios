@@ -127,7 +127,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 17: Context API e React Hooks
 
 - [X] 17-1: _Context API do React_
-- [ ] 17-2: _[Projeto - Jogo de Trivia]()_
+- [X] 17-2: _React Hooks - useState e useContext_
+- [ ] 17-3: _[Projeto - Jogo de Trivia]()_
 
 ##### Bloco 18: React & Context API
 
