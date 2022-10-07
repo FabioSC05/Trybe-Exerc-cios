@@ -138,11 +138,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
 - [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
-##### Bloco 19: Projeto Final de Front-end
+## Desenvolvimento Back-End :hourglass_flowing_sand:
 
-- [ ] 19-1: _[Projeto - App de Receitas]()_
+##### Bloco 19: Docker: Utilizando Containers
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+- [X] 19-1: _Utilizando Containers - Docker_
+- [ ] 19-2: _[Projeto - App de Receitas]()_
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 
