@@ -72,7 +72,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 8-5: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
 - [X] 8-6: _[Projeto - Zoo functions](https://github.com/tryber/sd-023-a-project-zoo-functions/pull/184)_
 
-## Desenvolvimento Front-End :hourglass_flowing_sand:
+## Desenvolvimento Front-End :white_check_mark:
 
 ##### Bloco 9: JavaScript e Testes Assíncronos
 
@@ -131,12 +131,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 17-3: _React Hooks - useEffect e Hooks customizados_
 - [X] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/tryber/sd-023-a-project-starwars-planets-search/pull/106)_
 
-##### Bloco 18: React & Context API
+##### Bloco 18: Projeto App de Receitas
 
-- [ ] 18-1: _Context API do React_
-- [ ] 18-2: _React Hooks - useState e useContext_
-- [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [X] 18-1: _[Projeto - App de Receitas](https://github.com/tryber/sd-023-a-project-recipes-app/pull/955)_
 
 ## Desenvolvimento Back-End :hourglass_flowing_sand:
 
