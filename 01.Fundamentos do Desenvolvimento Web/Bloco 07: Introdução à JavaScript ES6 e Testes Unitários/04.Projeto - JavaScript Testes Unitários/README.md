@@ -6,4 +6,4 @@ Tema:
 
 JavaScript Testes Unitários
 
-https://github.com/tryber/sd-023-a-project-js-unit-tests/pull/181
+https://github.com/FabioSC05/Bloco-07-JS-Unit-Tests
