@@ -6,4 +6,4 @@ Tema:
 
 Carta Misteriosa
 
-https://github.com/tryber/sd-023-a-project-mistery-letter/pull/51
+https://github.com/FabioSC05/Bloco-05-Mistery-Letter
