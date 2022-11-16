@@ -79,7 +79,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 9-1: _JavaScript Assíncrono e Callbacks_
 - [X] 9-2: _JavaScript Assíncrono - Fetch API e async-await_
 - [X] 9-3: _Jest - Testes Assíncronos_
-- [X] 9-4: _[Projeto - Carrinho de Compras](https://github.com/tryber/sd-023-a-project-shopping-cart/pull/194)_
+- [X] 9-4: _[Projeto - Carrinho de Compras](https://github.com/FabioSC05/Bloco-09-Shopping-Cart)_
 
 ##### Bloco 10: Introdução à React
 
