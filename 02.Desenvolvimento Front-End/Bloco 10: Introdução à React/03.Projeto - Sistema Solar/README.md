@@ -6,4 +6,4 @@ Tema:
 
 Sistema Solar
 
-https://github.com/tryber/sd-023-a-project-solar-system/pull/202
+https://github.com/FabioSC05/Bloco-10-Solar-System
