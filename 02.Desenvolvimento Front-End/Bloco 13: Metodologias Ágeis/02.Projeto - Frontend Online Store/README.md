@@ -6,4 +6,4 @@ Tema:
 
 Frontend Online Store
 
-https://github.com/tryber/sd-023-a-project-frontend-online-store/pull/559
+https://github.com/FabioSC05/Bloco-13-FrontEnd-Online-Store
