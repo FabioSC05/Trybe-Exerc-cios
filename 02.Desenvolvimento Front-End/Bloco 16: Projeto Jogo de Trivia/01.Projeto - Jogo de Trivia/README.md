@@ -6,4 +6,4 @@ Tema:
 
 Jogo de Trivia
 
-https://github.com/tryber/sd-023-a-project-trivia-react-redux/pull/561
+https://github.com/FabioSC05/Bloco-16-Trivia-React-Redux

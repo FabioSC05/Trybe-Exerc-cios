@@ -122,7 +122,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 16: Projeto Jogo de Trivia
 
-- [X] 16-1: _[Projeto - Jogo de Trivia](https://github.com/tryber/sd-023-a-project-trivia-react-redux/pull/561)_
+- [X] 16-1: _[Projeto - Jogo de Trivia](https://github.com/FabioSC05/Bloco-16-Trivia-React-Redux)_
 
 ##### Bloco 17: Context API e React Hooks
 
