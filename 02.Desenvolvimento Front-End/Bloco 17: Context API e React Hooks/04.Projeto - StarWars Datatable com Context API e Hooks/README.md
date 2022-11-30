@@ -6,4 +6,4 @@ Tema:
 
 StarWars Datatable com Context API e Hooks
 
-https://github.com/tryber/sd-023-a-project-starwars-planets-search/pull/106
+https://github.com/FabioSC05/Bloco-17-Star-Wars-Planets-Search
