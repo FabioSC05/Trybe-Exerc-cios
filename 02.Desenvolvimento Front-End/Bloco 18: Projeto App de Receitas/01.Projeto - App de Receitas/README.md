@@ -6,4 +6,4 @@ Tema:
 
 App de Receitas
 
-https://github.com/tryber/sd-023-a-project-recipes-app/pull/955
+https://github.com/FabioSC05/Bloco-18-Recipes-App
