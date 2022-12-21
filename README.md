@@ -142,7 +142,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 19-1: _Utilizando Containers - Docker_
 - [X] 19-2: _Manipulando Imagens no Docker_
 - [X] 19-3: _Orquestrando Containers com Docker Compose_
-- [X] 19-4: _[Projeto - Docker Todo-List](https://github.com/tryber/sd-023-a-project-docker-todo-list/pull/189)_
+- [X] 19-4: _[Projeto - Docker Todo-List](https://github.com/FabioSC05/Bloco-19-Docker-To-Do-List)_
 
 ##### Bloco 20: Introdução à SQL
 
