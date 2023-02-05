@@ -164,7 +164,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 22-1: _Node.js: Runtime Assíncrono_
 - [X] 22-2: _Node.js: API REST com Express_
 - [X] 22-3: _Node.js: Testes de Integração_
-- [ ] 22-4: _[Projeto - One For All]()_
+- [X] 22-4: _Node.js: Express e Middlewares_
+- [ ] 22-5: _[Projeto - One For All]()_
 
 ##### Bloco 23: Introdução - NoSQL
 
