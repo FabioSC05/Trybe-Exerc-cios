@@ -166,7 +166,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 22-3: _Node.js: Testes de Integração_
 - [X] 22-4: _Node.js: Express e Middlewares_
 - [X] 22-5: _Node.js: Express e MySQL_
-- [ ] 22-6: _[Projeto - One For All]()_
+- [X] 22-6: _[Projeto - Talker Manager](https://github.com/FabioSC05/Bloco-22-Talker-Manager)_
 
 ##### Bloco 23: Introdução - NoSQL
 
